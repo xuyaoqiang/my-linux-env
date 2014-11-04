@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/wulp/Webpage/shengyb/manager'
+let g:netrw_dirhist_2='/home/wulp/hot_fix/comm_lib/enums'
+let g:netrw_dirhist_3='/home/wulp/hot_fix/backends'
+let g:netrw_dirhist_4='/home/ops/sac/conf'
+let g:netrw_dirhist_5='/usr/lib/python2.6/site-packages/Fabric-1.8.3-py2.6.egg-info'

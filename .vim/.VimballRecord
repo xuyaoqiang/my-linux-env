@@ -1,0 +1,6 @@
+snippy_plugin.vba: call delete('/home/garcia/.vim/plugin/snippetsEmu.vim')|call delete('/home/garcia/.vim/doc/snippets_emu.txt')
+open_terminal.vba: call delete('/home/wul/.vim/plugin/open_terminal.vim')|call delete('/home/wul/.vim/doc/open_terminal.txt')
+screen.vba: call delete('/home/wul/.vim/plugin/screen.vim')|call delete('/home/wul/.vim/doc/screen.txt')
+conque_term_1.0.vba: call delete('/home/wul/.vim/autoload/conque_term.vim')|call delete('/home/wul/.vim/doc/conque_term.txt')|call delete('/home/wul/.vim/plugin/conque_term.vim')|call delete('/home/wul/.vim/syntax/conque_term.vim')
+haskellmode-20090430.vba: call delete('/home/wul/.vim/compiler/ghc.vim')|call delete('/home/wul/.vim/ftplugin/haskell.vim')|call delete('/home/wul/.vim/ftplugin/haskell_doc.vim')|call delete('/home/wul/.vim/ftplugin/haskell_hpaste.vim')|call delete('/home/wul/.vim/autoload/haskellmode.vim')|call delete('/home/wul/.vim/doc/haskellmode.txt')
+haskellFold.vba: call delete('/home/wul/.vim/plugin/haskellFold.vim')
